@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá Bem vindo ao meu perfil 👋
+Meu nome é tetegameplay
 
-<!--
-**Tetegameplay09/Tetegameplay09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- estou estudando na Alura
+- Estou me desenvolvendo na linguagem JavaScript
+- Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
 
-Here are some ideas to get you started:
+  ### Alura
+  https://www.alura.com.br/
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazh5bXlzdnF0dW5xcTZuOTV6eGg0eDlrZnplbHRxbnZtOWV5MXNxaCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/XhusKDpC5q6ic/giphy.gif)
+
+
